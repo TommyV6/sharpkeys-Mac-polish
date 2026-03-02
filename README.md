@@ -6,6 +6,7 @@ Pozwoliłem sobie dodać skompliowaną wersje dla leniwych, wystarczy rozpakowa�
 Domyślny program sharpkeys nie może mapować klawiszy na klawiaturach "for Mac" dopiero zmodyfikowana wersji Sharpkeys-mac to potrafi. Ma to wyglądać tak:
 
 <img width="736" height="543" alt="sharpkeys-mac-on-windows" src="https://github.com/user-attachments/assets/43c82e2e-3c31-467e-af5b-1cc8ff420ab3" />
+
 Nie trzeba tego wpisywać ręcznie w pliku z skompilowanym programe jest plik: <a href="https://github.com/TommyV6/sharpkeys-Mac-polish/blob/master/Swap_Command_and_Option_for_Windows.skl">Swap_Command_and_Option_for_Windows.skl</a> który można po prostu załadować i gotowe!
 
 Nie jestem autorem programu sharpkeys ani jego modyfikacji sharpkeys-mac, dodałem tylko to co potrzebne dla polsków i skompilowałem wersję programu, bo autor oryginały sharpkeys-mac tego nie zrobił. 
