@@ -1,7 +1,7 @@
-## Project Description
-After much frustration with Logitec MX keyboard when moving to windows I've had enough
-Added Mac options keys so you can convert the command and options keys 
-I'm using it to the left side only since doing both left and right got windows confused , you can experiment
+## Opis projektu Sharpkey-mac-polish
+Zmodyfikowana wersja projektu sharpkeys-mac tak aby dało się podmienić klawisze command i option na klawiaturach Logitech MX Keys for Mac (może być MX Keys S) pozwala to normalnie pisać po polsku. Fabrycznie system Windows 11 interpretuje klawisze Command jako Windows a Option jak Alt czyli dokładnie odwrotnie do tego co jesteśmy przyzwyczajeni. 
+
+Pozwoliłem sobie dodać skompliowaną wersje dla leniwych, wystarczy rozpakować odpalić, załadowac plik konfiguracyjny i zapisać do rejestru, program po tym zabiegu można usunąć. Działa globalnie.
 
 ## Original Project Description
 SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key. Included in the application is a list of common keyboard keys and a Type Key feature to automatically recognize most keyboard keys. It was originally developed in C# using .NET v2 but has been updated to support .NET 4.0 Client Profile
